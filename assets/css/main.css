@@ -41,6 +41,7 @@ h3 {
     background-position: top;
     background-attachment: fixed;
     height: 100%;
+    min-height: 1080px;
 }
 @media screen and (max-width: 45em) {
     .image {
