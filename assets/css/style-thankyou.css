@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Chronicle Display Roman';
+    src: url('../fonts/Chronicle_Display_Roman.otf');
+}
+
+@font-face {
+    font-family: 'Chronicle Display Bold';
+    src: url('../fonts/Chronicle_Display_Bold.otf');
+}
+
+body {
+    background-color: rgb(33, 66, 125);
+}
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 0 2.5em;
+}
+p {
+    font-family: 'Chronicle Display Roman';
+    font-size: 16px;
+    line-height: 1.4em;
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+h3 {
+    font-family: 'Chronicle Display Bold';
+    font-size: 28px;
+    line-height: 36px;
+    letter-spacing: 1.64px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:normal;
+}
+.logo {
+    display: block;
+    width: 200px;
+    margin: 5em auto 0 auto;
+}
