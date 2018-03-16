@@ -83,7 +83,7 @@ h3 {
 }
 input[type=text] {
     border: none !important;
-    border-bottom: 1px solid rgb(33, 66, 125); !important;
+    border-bottom: 1px solid rgb(33, 66, 125) !important;
     font-family: 'Chronicle Display Roman', serif !important;
     font-size: 16px !important;
     color: rgb(33, 66, 125) !important;
